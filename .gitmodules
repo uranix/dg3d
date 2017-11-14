@@ -1,0 +1,3 @@
+[submodule "libMeshb"]
+	path = libMeshb
+	url = git://github.com/LoicMarechal/libMeshb.git
